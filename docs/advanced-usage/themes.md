@@ -14,4 +14,5 @@ For this reason, the theming heroes of the Spicetify community have created a hu
 3. [williamckha/spicetify-fluent](https://github.com/williamckha/spicetify-fluent)
 4. [JulienMaille/dribbblish-dynamic-theme](https://github.com/JulienMaille/dribbblish-dynamic-theme)
 5. [Tetrax-10/Nord-Spotify](https://github.com/Tetrax-10/Nord-Spotify)
-6. Insert your theme here!
+6. [[Insert your theme here!](https://github.com/spicetify/spicetify-themes/blob/master/D](https://github.com/spicetify/spicetify-themes/blob/master/Dribbblish/samourai.png)
+7.
